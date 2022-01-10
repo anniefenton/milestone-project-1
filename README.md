@@ -26,21 +26,50 @@ A *Foraging Cardiff* guide would use the site to find out the dates and times of
 
 2. #### Developer
 
-The developer wants to build her skillset by designing this website. She wants to create a fit-for-purpose, fully functioning site that would add to her portfolio of work.
+The developer wants to build her skillset by designing this website. She wants to create a fit-for-purpose, fully functioning site that would add to her portfolio of work and showcase her eye for design.
 
 ### User Stories
 
+As a new customer and forager I want:
+
+- to learn about foraging in my local area.
+- to learn more about the organisation and their values.
+- a website in which I can easily see the dates, times, and locations of walks.
+- to be able to sign up to the mailing list and find the organisation's social links.
+- to see the pricing of these walks.
+
+As a returning customer and forager I want:
+
+- a website in which I can easily see the dates, times, and locations of walks.
+- the ability to see images of commonly foraged plants on the website.
+
+As a potential guide I want:
+
+- to find out about the organisation's values and interests to see if they match up to mine.
+- to see the schedule of current walks to see if I could add to it.
+- To register my interest as a new guide.
+
 ### Design Choices
 #### Color
+greens, naturual colours
 #### Font
+sans-serif - friendly and informal
 #### Icons
+trees
 #### Styling
+bold landing page - stepping into a forest
 #### Backgrounds
 #### Images
+trees, forests, nature
 
 ### Wireframes
 
 ## Features
+
+- A bold landing page to simulate the user 'stepping into' a forest and the site. This would only feature once when entering the site and the navigation links wouldn't direct to this to maintain a smooth user experience.
+- A header featuring the logo and navigation links of the site 
+- An 'About us' page where users find out about the organiation
+
 ### Existing Features
 ### Features left to implement
 - Area for existing guides to manage their walks, profiles etc.

@@ -64,13 +64,25 @@ trees, forests, nature
 
 ### Wireframes
 
+![Smartphone Wireframe](/assets/images/Smartphone.png)
+
+![Ipad Wireframe](/assets/images/Ipad.png)
+
+![Desktop Wireframe](/assets/images/Desktop.png)
+
+
+
+
+
 ## Features
+### Existing Features
 
 - A bold landing page to simulate the user 'stepping into' a forest and the site. This would only feature once when entering the site and the navigation links wouldn't direct to this to maintain a smooth user experience.
-- A header featuring the logo and navigation links of the site 
-- An 'About us' page where users find out about the organiation
+- A header featuring the logo and navigation links of the site.
+- An 'About us' page where users find out about the organiation, the schedule of foraging walks, and pricing of them.
+- A gallery section featuring images and descriptions of some commonly foraged plants. A disclaimer would also feature here as well as a warning message to not 'munch on a hunch'.
+- A contact page where users can sign up to the organisation's mailing list, and where potential guides can regsiter their interest.
 
-### Existing Features
 ### Features left to implement
 - Area for existing guides to manage their walks, profiles etc.
 - user profiles where they document what plants they have foraged.

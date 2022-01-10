@@ -64,9 +64,15 @@ trees, forests, nature
 
 ### Wireframes
 
+#### Smartphone
+
 ![Smartphone Wireframe](/assets/images/Smartphone.png)
 
+#### Ipad
+
 ![Ipad Wireframe](/assets/images/Ipad.png)
+
+#### Desktop
 
 ![Desktop Wireframe](/assets/images/Desktop.png)
 

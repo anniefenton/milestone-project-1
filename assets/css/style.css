@@ -10,6 +10,34 @@
     font-family: 'Nunito', sans-serif;
 }
 
+/*---------------------------------index.html*/
+
+.callout-container {
+    height: 100vh;
+
+    background: url(/assets/images/cardiff-forest.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.callout-container h1 {
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+}
+
+.callout-container p {
+    text-align: center;
+}
+
 /*---------------------------------Jumbotron*/
 
 .jumbotron-text {

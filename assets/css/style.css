@@ -38,13 +38,14 @@
 .callout-container p {
     text-align: center;
     margin: 10px;
+    font-family: 'Nunito', sans-serif;
 }
 
 .callout-container h1 i {
     color: #fff;
 }
 
-/*---------------------------------Jumbotron*/
+/*---------------------------------Page headers*/
 
 .jumbotron-text {
     font-family: 'Nunito', sans-serif;
@@ -55,6 +56,15 @@
 }
 
 .jumbotron-header {
-    background-image: url(/assets/images/forest.jpeg);
+    background-image: url(/assets/images/forest-hd.jpg);
+    background-color: darkolivegreen;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
 }
 

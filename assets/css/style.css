@@ -14,17 +14,15 @@
 
 .callout-container {
     height: 100vh;
-
     background: url(/assets/images/cardiff-forest.jpg) no-repeat center center fixed;
+    background-color: darkolivegreen;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
 }
 
@@ -42,6 +40,10 @@
     margin: 10px;
 }
 
+.callout-container h1 i {
+    color: #fff;
+}
+
 /*---------------------------------Jumbotron*/
 
 .jumbotron-text {
@@ -49,6 +51,7 @@
     text-align: center;
     color: #fff;
     font-weight: 400;
+    text-shadow: 1px 1px 1px #000000;
 }
 
 .jumbotron-header {

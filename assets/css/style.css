@@ -68,3 +68,11 @@
     position: relative;
 }
 
+/*---------------------------------Home content*/
+
+section h2 {
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    color: darkolivegreen;
+    font-weight: 300;
+}

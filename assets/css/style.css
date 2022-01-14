@@ -75,4 +75,20 @@ section h2 {
     text-align: center;
     color: darkolivegreen;
     font-weight: 300;
+    padding: 20px;
+}
+
+section h3 {
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.text-padding {
+    padding: 20px 50px 20px 50px;
+}
+
+section p {
+    text-align: center;
 }

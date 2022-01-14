@@ -1,4 +1,17 @@
+/*---------------------------------Nav Bar*/
+
 .navbar-brand {
     padding: 0;
-   
 }
+
+/*---------------------------------Jumbotron*/
+
+.jumbotron-text {
+    text-align: center;
+    color: #fff;
+}
+
+.jumbotron-header {
+    background-image: url(/assets/images/forest.jpeg);
+}
+

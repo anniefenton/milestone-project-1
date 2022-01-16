@@ -102,3 +102,15 @@
 section p {
     text-align: center;
 }
+
+/*---------------------------------Footer*/
+
+footer {
+    background-color: darkolivegreen;
+    color: #fff;
+    padding: 15px;
+}
+
+footer span {
+    padding: 10px;
+}

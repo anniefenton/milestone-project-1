@@ -116,11 +116,21 @@ footer {
 footer i {
     font-family: 'Nunito', sans-serif;
     font-size: 0.7em;
+    font-weight: 100;
     text-align: center;
-    padding-bottom: 20px;
     padding-left: 10px;
+}
+
+.socials {
+    padding-left: 150px;
 }
 
 footer span {
     padding: 10px;
 }
+
+footer span a {
+    color: #fff;
+    
+}
+a:hover {color: #e6e6e6;}

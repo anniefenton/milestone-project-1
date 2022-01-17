@@ -103,6 +103,19 @@ section p {
     text-align: center;
 }
 
+/*---------------------------------Schedule*/
+
+#schedule-day {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+}
+}
+
+.schedule-text {
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}
+
 /*---------------------------------Footer*/
 
 footer {

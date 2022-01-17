@@ -105,10 +105,19 @@ section p {
 
 /*---------------------------------Schedule*/
 
+.schedule {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.col-schedule {
+    background-color: rgba(153, 183, 132, 0.5);
+    
+}
+
 #schedule-day {
     font-family: 'Amatic SC', cursive;
     text-align: center;
-}
 }
 
 .schedule-text {

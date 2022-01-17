@@ -113,6 +113,11 @@ footer {
     padding: 15px;
 }
 
+.footer-text {
+    text-align: center;
+    padding-top: 10px;
+}
+
 footer i {
     font-family: 'Nunito', sans-serif;
     font-size: 0.7em;
@@ -122,14 +127,14 @@ footer i {
 }
 
 .socials {
-    padding-left: 150px;
+    text-align: center;
 }
 
-footer span {
+footer li {
     padding: 10px;
 }
 
-footer span a {
+footer li a {
     color: #fff;
     
 }

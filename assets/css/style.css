@@ -166,6 +166,7 @@ section p {
 
 .form-style {
     width: 25em;
+    padding-bottom: 50px;
 }
     
 
@@ -173,10 +174,15 @@ legend {
     font-family: 'Amatic SC', cursive;
     font-size: 2.5em;
     color: darkolivegreen;
+    text-align: center;
 }
 
 form label {
     font-family: 'Nunito', sans-serif;
+}
+
+.btn {
+    margin-top: 1em;
 }
 
 /*---------------------------------Footer*/

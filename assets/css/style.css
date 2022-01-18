@@ -112,7 +112,7 @@ section p {
 
 .col-schedule {
     background-color: rgba(153, 183, 132, 0.5);
-    
+    border-radius: 15px;
 }
 
 #schedule-day {

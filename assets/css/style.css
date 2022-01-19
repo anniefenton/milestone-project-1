@@ -130,6 +130,10 @@ section p {
     text-align: center;
 }
 
+.park-map {
+    color: black;
+}
+
 /*---------------------------------Gallery*/
 
 .card-padding {
@@ -195,6 +199,8 @@ form label {
     margin-top: 1em;
 }
 
+
+
 /*---------------------------------Footer*/
 
 footer {
@@ -230,7 +236,11 @@ footer li a {
     color: #fff;
     
 }
-a:hover {color: #e6e6e6;}
+
+a:hover {
+    color: #e6e6e6;
+    text-decoration: none;
+}
 
 #footer-contact {
     margin-top: 1.5em;

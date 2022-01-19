@@ -50,18 +50,18 @@ As a potential guide I want:
 - To register my interest as a new guide.
 
 ### Design Choices
-#### Color
-greens, naturual colours
-#### Font
-sans-serif - friendly and informal
-#### Icons
-trees
-#### Styling
-bold landing page - stepping into a forest
-#### Backgrounds
-#### Images
-trees, forests, nature
-
+#### *Color*
+The colours used reflect the colours found in nature - greens in various tones.
+#### *Font*
+Sans-serif fonts are used to keep the tone of the website friendly and informal. Nunito and Amatic SC were used throughout the site.
+#### *Icons*
+Icons were used to emphasize the content on the page. In the 'reasons to forage with us' section on the home.html page the icons were placed next to the reason headers to draw the eye to them.
+#### *Styling*
+The bold landing page is to create an experience that the user is 'stepping into' the website as they would step into a forest. It is only accessed upon entering the website and can't be navigated to from the Navbar links. This is to ensure a clutter-free website for the user. 
+#### *Backgrounds*
+The same background colour is used in the schedule and form sections to ensure a design continuity. 
+#### *Images*
+The images used are all either the developer's own images, or from an open-source site. The same picture of a forest is used in the page headers to keep the website fluid. The images in the gallery page intend to show what the foraged plants look like.
 ### Wireframes
 
 #### Smartphone
@@ -101,6 +101,8 @@ trees, forests, nature
 ### How to Run this project locally
 
 ## Credits
+Code that was taken from other sources has been credited in the .html files and includes it's URL source. Sources are Code Insitute's project videos and Bootstrap documentation. 
+
 ### Content
 ### Media
 ### Code

@@ -92,6 +92,7 @@ The images used are all either the developer's own images, or from an open-sourc
 ### Features left to implement
 - Area for existing guides to manage their walks, profiles etc.
 - user profiles where they document what plants they have foraged.
+- Padding between contact forms on phone devices
 
 ## Technologies Used
 

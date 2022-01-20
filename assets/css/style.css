@@ -26,6 +26,20 @@
     align-items: center;
     justify-content: center;
     position: relative;
+/*--animation code taken from Code Institute Love Running landing page URL:https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/03_creating_the_hero_image/02_hero_image_animation/assets/css/style.css*/
+    animation-name: index-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/*--keyframes code taken from Code Institute Love Running landing page URL:https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/03_creating_the_hero_image/02_hero_image_animation/assets/css/style.css*/
+@keyframes index-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.05);
+    }
 }
 
 .callout-container h1 {

@@ -112,6 +112,10 @@ On the contact.html page, when viewing on a mobile device, there is no gap betwe
 
 ## Deployment
 ### How to Run this project locally
+1. Log into GitHub and located the desired GitHub repository.
+2. Click on the 'Settings' icon at the top of the repository page.
+3. Scroll down to the 'GitHub Pages' section. You will find a yellow callout message directing you to the new 'GitHub pages' page. Follow this link.
+4. Under the 'Source' section, click on the 'None' dropdown button and select 'main'. Then click 'Save'.
 
 ## Credits
 Code that was taken from other sources has been credited in the .html files and includes it's URL source. Sources are Code Insitute's project videos and Bootstrap documentation. 

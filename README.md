@@ -1,5 +1,7 @@
 # Foraging Website
 
+![Responsive Design](/assets/images/responsive.jpg)
+
 ## **UX**
 
 ### Project Goals
@@ -98,9 +100,10 @@ The images used are all either the developer's own images, or from an open-sourc
 - A contact page where users can sign up to the organisation's mailing list, and where potential guides can regsiter their interest.
 
 ### Features left to implement
-- Area for existing guides to manage their walks, profiles etc.
-- user profiles where they document what plants they have foraged.
-- Padding between contact forms on phone devices
+- An area for existing guides to manage their staff profiles.
+- A tool where users can maintain a profile that documents what they have foraged.
+- Padding between contact forms on phone devices.
+- To remove the scrolling bar on devices.
 
 ## **Technologies Used**
 ### Languages

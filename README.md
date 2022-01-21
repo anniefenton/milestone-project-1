@@ -172,7 +172,8 @@ A separate contact form for potential guides has been included on the contact.ht
 ### Validators
 The HTML and CSS code was run through the validators and changes made where they could be made. There were no errors in the CSS code.
 ### Known bugs
-On the contact.html page, when viewing on a mobile device, there is no gap between the two contact forms. The developer would prefer there to be a break between the two forms.
+- On the contact.html page, when viewing on a mobile device, there is no gap between the two contact forms. The developer would prefer there to be a break between the two forms.
+- The developer had to use absolute filepaths to ensure the images in the site loaded when deployed. The developer would have prefereed to use relative filepaths.
 
 ## **Deployment**
 ### How to Run this project locally

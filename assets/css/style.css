@@ -86,7 +86,7 @@
 
 /*---------------------------------Home content*/
 
-#tagline {
+.tagline {
     font-family: 'Amatic SC', cursive;
     font-size: 3em;
     text-align: center;

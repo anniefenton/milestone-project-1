@@ -30,24 +30,31 @@ The developer wants to build her skillset by designing this website. She wants t
 
 ### User Stories
 
-As a new customer and forager I want:
+1. As a new customer and forager I want:
 
-- to learn about foraging in my local area.
-- to learn more about the organisation and their values.
-- a website in which I can easily see the dates, times, and locations of walks.
-- to be able to sign up to the mailing list and find the organisation's social links.
-- to see the pricing of these walks.
+   i to learn about foraging in my local area.
 
-As a returning customer and forager I want:
+   ii to learn more about the organisation and their values.
 
-- a website in which I can easily see the dates, times, and locations of walks.
-- the ability to see images of commonly foraged plants on the website.
+   iii a website in which I can easily see the dates, times, and locations of walks
 
-As a potential guide I want:
+   iv to be able to sign up to the mailing list and find the organisation's social links.
 
-- to find out about the organisation's values and interests to see if they match up to mine.
-- to see the schedule of current walks to see if I could add to it.
-- To register my interest as a new guide.
+   v to see the pricing of these walks.
+
+2. As a returning customer and forager I want:
+
+   i a website in which I can easily see the dates, times, and locations of walks.
+
+   ii the ability to see images of commonly foraged plants on the website.
+
+3. As a potential guide I want:
+
+   i to find out about the organisation's values and interests to see if they match up to mine.
+
+   ii to see the schedule of current walks to see if I could add to it.
+
+   iii To register my interest as a new guide.
 
 ### Design Choices
 #### *Color*
@@ -96,6 +103,10 @@ The images used are all either the developer's own images, or from an open-sourc
 - Padding between contact forms on phone devices
 
 ## Technologies Used
+### Languages
+- HTML5
+-CSS3
+### Programmes, Libraries, and Frameworks
 - **Bootstrap 4.2.1** used to help make the site responsive. Navbar, form, and card structures were also taken from Boostrap documentation.
 - **Google Fonts** used to provide the typography across the site.
 - **Font Awesome** used to add icons to headers and pieces of text to convey meaning, and to provide links to social media sites.
@@ -105,6 +116,54 @@ The images used are all either the developer's own images, or from an open-sourc
 - **Balsamiq** used to create wireframes in the README.md file.
 
 ## Testing
+### Testing User Stories
+1. **As a new customer and forager I want:**
+
+ **i to learn about foraging in my local area.**
+
+The gallery.html page details plants that can be found in the local area and directs users to further information about them.
+
+**ii to learn more about the organisation and their values.**
+
+The home.html page includes a brief synopsis of the organisation's values.
+
+**iii a website in which I can easily see the dates, times, and locations of walks**
+
+The home.html page includes an easy to find schedule at the bottom of the page.
+
+**iv to be able to sign up to the mailing list and find the organisation's social links.**
+
+A contact form is included on the contact.html page. Links to social media sites are on the footer of every page.
+
+**iv to see the pricing of these walks.**
+
+This information is included on the home.html page. 
+
+2. **As a returning customer and forager I want:**
+
+**i a website in which I can easily see the dates, times, and locations of walks.**
+
+The home.html page includes a brief synopsis of the organisation's values.
+
+**ii the ability to see images of commonly foraged plants on the website.**
+
+The gallery.html page details plants that can be found in the local area and directs users to further information about them.
+
+
+3. **As a potential guide I want:**
+
+**i to find out about the organisation's values and interests to see if they match up to mine.**
+
+This information is included on the home.html page.
+
+**ii to see the schedule of current walks to see if I could add to it.**
+
+The home.html page includes an easy to find schedule at the bottom of the page.
+
+**iii To register my interest as a new guide**
+
+A separate contact form for potential guides has been included on the contact.html page. It has a clear heading to distinguish it from the other form.
+
 ### Validators
 The HTML and CSS code was run through the validators and changes made where they could be made. There were no errors in the CSS code.
 ### Known bugs
@@ -115,15 +174,17 @@ On the contact.html page, when viewing on a mobile device, there is no gap betwe
 1. Log into GitHub and located the desired GitHub repository.
 2. Click on the 'Settings' icon at the top of the repository page.
 3. Scroll down the panel on the left-side of the page and click on the 'Pages' section.
-4. Under the 'Source' section, click on the 'None' dropdown button and select 'main'. Then click 'Save'.
+4. Under the 'Source' section, click on the 'None' dropdown button and select 'main'. Then click '/docs' in the next drop-down button. Then click 'Save'.
+5. Wait about 10 minutes for the site to be built before clicking on the link above in the blue box.
 
 ## Credits
-Code that was taken from other sources has been credited in the .html files and includes it's URL source. Sources are Code Insitute's project videos and Bootstrap documentation. 
-
 ### Content
 All code, except where credited to other, was written by the developer. 
 ### Media
+Images were taken from open source websites. The image on the index.html page is the developer's own image.
 ### Code
+Code that was taken from other sources has been credited in the .html files and includes it's URL source. Sources are Code Insitute's project videos and Bootstrap documentation. 
 ### Acknowledgements
+The devloper would like to thank her mentor for helpful feedback, and the tutor support team for their support.
 
 

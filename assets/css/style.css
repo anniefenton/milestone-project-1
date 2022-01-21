@@ -72,7 +72,7 @@
 }
 /*---.jumbotron-header styling code taken from Code Institute WHiskey Drop landing page URL:https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/blob/master/04-BeyondBootstrap/01-updating_our_callout/css/style.css*/
 .jumbotron-header {
-    background-image: url(/assets/images/forest-hd.jpg);
+    background-image: url(../images/forest-hd.jpg);
     background-color: darkolivegreen;
     -webkit-background-size: cover;
     -moz-background-size: cover;

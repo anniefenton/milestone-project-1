@@ -1,4 +1,4 @@
-# Foraging Website
+# Foraging Cardiff Website
 
 ![Responsive Design](/assets/images/responsive.jpg)
 

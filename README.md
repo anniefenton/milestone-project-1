@@ -166,7 +166,8 @@ A separate contact form for potential guides has been included on the contact.ht
 
 ### Further Testing
 
-The 
+- The website was viewed through Chrome Dev tools on mobile, tablet, and desktop devices to ensure it had responsive design.
+- The internal and external links extensively were tested on the site to ensure they all worked.
 
 ### Validators
 The HTML and CSS code was run through the validators and changes made where they could be made. There were no errors in the CSS code.
@@ -180,6 +181,8 @@ On the contact.html page, when viewing on a mobile device, there is no gap betwe
 3. Scroll down the panel on the left-side of the page and click on the 'Pages' section.
 4. Under the 'Source' section, click on the 'None' dropdown button and select 'main'. Then click '/root' in the next drop-down button. Then click 'Save'.
 5. Wait about 10 minutes for the site to be built before clicking on the link above in the blue box.
+
+### Forking the GitHub repository
 
 ## **Credits**
 ### Content

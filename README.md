@@ -53,7 +53,7 @@ As a potential guide I want:
 #### *Color*
 The colours used reflect the colours found in nature - greens in various tones.
 #### *Font*
-Sans-serif fonts are used to keep the tone of the website friendly and informal. Nunito and Amatic SC were used throughout the site.
+Nunito and Amatic SC were used throughout the site. Sans-serif and cursive were the fall-back fonts should connection to _Google Fonts_ fail. 
 #### *Icons*
 Icons were used to emphasize the content on the page. In the 'reasons to forage with us' section on the home.html page the icons were placed next to the reason headers to draw the eye to them.
 #### *Styling*
@@ -81,6 +81,7 @@ The images used are all either the developer's own images, or from an open-sourc
 
 
 ## Features
+- Fully responsive across mobile, tablet, and desktop devices.
 ### Existing Features
 
 - A bold landing page to simulate the user 'stepping into' a forest and the site. This would only feature once when entering the site and the navigation links wouldn't direct to this to maintain a smooth user experience.
@@ -95,8 +96,19 @@ The images used are all either the developer's own images, or from an open-sourc
 - Padding between contact forms on phone devices
 
 ## Technologies Used
+- **Bootstrap 4.2.1** used to help make the site responsive. Navbar, form, and card structures were also taken from Boostrap documentation.
+- **Google Fonts** used to provide the typography across the site.
+- **Font Awesome** used to add icons to headers and pieces of text to convey meaning, and to provide links to social media sites.
+- **Git** was utilised for version control and publishing additions and changes to Github.
+- **GitHub** used to store the project once published from GitPod.
+- **Canva** used to create the logo seen in the top-left corner of the site's pages.
+- **Balsamiq** used to create wireframes in the README.md file.
 
 ## Testing
+### Validators
+The HTML and CSS code was run through the validators and changes made where they could be made. There were no errors in the CSS code.
+### Known bugs
+On the contact.html page, when viewing on a mobile device, there is no gap between the two contact forms. The developer would prefer there to be a break between the two forms.
 
 ## Deployment
 ### How to Run this project locally
@@ -105,6 +117,7 @@ The images used are all either the developer's own images, or from an open-sourc
 Code that was taken from other sources has been credited in the .html files and includes it's URL source. Sources are Code Insitute's project videos and Bootstrap documentation. 
 
 ### Content
+All code, except where credited to other, was written by the developer. 
 ### Media
 ### Code
 ### Acknowledgements

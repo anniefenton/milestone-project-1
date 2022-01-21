@@ -1,6 +1,6 @@
 # Foraging Website
 
-## UX
+## **UX**
 
 ### Project Goals
 
@@ -56,7 +56,7 @@ The developer wants to build her skillset by designing this website. She wants t
 
    iii To register my interest as a new guide.
 
-### Design Choices
+## **Design Choices**
 #### *Color*
 The colours used reflect the colours found in nature - greens in various tones.
 #### *Font*
@@ -87,7 +87,7 @@ The images used are all either the developer's own images, or from an open-sourc
 
 
 
-## Features
+## **Features**
 - Fully responsive across mobile, tablet, and desktop devices.
 ### Existing Features
 
@@ -102,10 +102,10 @@ The images used are all either the developer's own images, or from an open-sourc
 - user profiles where they document what plants they have foraged.
 - Padding between contact forms on phone devices
 
-## Technologies Used
+## **Technologies Used**
 ### Languages
 - HTML5
--CSS3
+- CSS3
 ### Programmes, Libraries, and Frameworks
 - **Bootstrap 4.2.1** used to help make the site responsive. Navbar, form, and card structures were also taken from Boostrap documentation.
 - **Google Fonts** used to provide the typography across the site.
@@ -115,69 +115,73 @@ The images used are all either the developer's own images, or from an open-sourc
 - **Canva** used to create the logo seen in the top-left corner of the site's pages.
 - **Balsamiq** used to create wireframes in the README.md file.
 
-## Testing
+## **Testing**
 ### Testing User Stories
-1. **As a new customer and forager I want:**
+**1. As a new customer and forager I want:**
 
- **i to learn about foraging in my local area.**
+ *i to learn about foraging in my local area.*
 
 The gallery.html page details plants that can be found in the local area and directs users to further information about them.
 
-**ii to learn more about the organisation and their values.**
+*ii to learn more about the organisation and their values.*
 
 The home.html page includes a brief synopsis of the organisation's values.
 
-**iii a website in which I can easily see the dates, times, and locations of walks**
+*iii a website in which I can easily see the dates, times, and locations of walks*
 
 The home.html page includes an easy to find schedule at the bottom of the page.
 
-**iv to be able to sign up to the mailing list and find the organisation's social links.**
+*iv to be able to sign up to the mailing list and find the organisation's social links.*
 
 A contact form is included on the contact.html page. Links to social media sites are on the footer of every page.
 
-**iv to see the pricing of these walks.**
+*iv to see the pricing of these walks.*
 
 This information is included on the home.html page. 
 
-2. **As a returning customer and forager I want:**
+**2. As a returning customer and forager I want:**
 
-**i a website in which I can easily see the dates, times, and locations of walks.**
+*i a website in which I can easily see the dates, times, and locations of walks.*
 
 The home.html page includes a brief synopsis of the organisation's values.
 
-**ii the ability to see images of commonly foraged plants on the website.**
+*ii the ability to see images of commonly foraged plants on the website.*
 
 The gallery.html page details plants that can be found in the local area and directs users to further information about them.
 
 
-3. **As a potential guide I want:**
+**3. As a potential guide I want:**
 
-**i to find out about the organisation's values and interests to see if they match up to mine.**
+*i to find out about the organisation's values and interests to see if they match up to mine.*
 
 This information is included on the home.html page.
 
-**ii to see the schedule of current walks to see if I could add to it.**
+*ii to see the schedule of current walks to see if I could add to it.*
 
 The home.html page includes an easy to find schedule at the bottom of the page.
 
-**iii To register my interest as a new guide**
+*iii To register my interest as a new guide*
 
 A separate contact form for potential guides has been included on the contact.html page. It has a clear heading to distinguish it from the other form.
+
+### Further Testing
+
+The 
 
 ### Validators
 The HTML and CSS code was run through the validators and changes made where they could be made. There were no errors in the CSS code.
 ### Known bugs
 On the contact.html page, when viewing on a mobile device, there is no gap between the two contact forms. The developer would prefer there to be a break between the two forms.
 
-## Deployment
+## **Deployment**
 ### How to Run this project locally
 1. Log into GitHub and located the desired GitHub repository.
 2. Click on the 'Settings' icon at the top of the repository page.
 3. Scroll down the panel on the left-side of the page and click on the 'Pages' section.
-4. Under the 'Source' section, click on the 'None' dropdown button and select 'main'. Then click '/docs' in the next drop-down button. Then click 'Save'.
+4. Under the 'Source' section, click on the 'None' dropdown button and select 'main'. Then click '/root' in the next drop-down button. Then click 'Save'.
 5. Wait about 10 minutes for the site to be built before clicking on the link above in the blue box.
 
-## Credits
+## **Credits**
 ### Content
 All code, except where credited to other, was written by the developer. 
 ### Media

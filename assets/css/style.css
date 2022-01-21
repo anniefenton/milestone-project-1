@@ -16,7 +16,7 @@
 
 .callout-container {
     height: 100vh;
-    background: url(/assets/images/cardiff-forest.JPG) no-repeat center center fixed;
+    background: url(../images/cardiff-forest.jpg) no-repeat center center fixed;
     background-color: darkolivegreen;
     -webkit-background-size: cover;
     -moz-background-size: cover;

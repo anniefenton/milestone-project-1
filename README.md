@@ -181,9 +181,19 @@ The HTML and CSS code was run through the validators and changes made where they
 2. Click on the 'Settings' icon at the top of the repository page.
 3. Scroll down the panel on the left-side of the page and click on the 'Pages' section.
 4. Under the 'Source' section, click on the 'None' dropdown button and select 'main'. Then click '/root' in the next drop-down button. Then click 'Save'.
-5. Wait about 10 minutes for the site to be built before clicking on the link above in the blue box.
+5. Wait about 10 minutes for the site to be built before clicking on the [link](https://anniefenton.github.io/milestone-project-1/) above in the blue box. 
 
 ### Forking the GitHub repository
+1. Log into GitHub and find the desired repository.
+2. At the top of the repository page, click on the 'fork' button. This will create a copy of the repository in your GitHub account. 
+
+### Cloning a repository
+1. Log into GitHub and find the desired repository.
+2. At the top of the repository page, click on the 'Code' drop down button and copy the HTTPS URL that is displayed.
+3. Open Git Bash.
+4. Change the current working directory to the location where you want the cloned directory.
+5. Type 'git clone' and paste the URL you copied in step 2. 
+6. Press enter. Your clone has been created. For more inforation, follow this [link](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
 ## **Credits**
 ### Content

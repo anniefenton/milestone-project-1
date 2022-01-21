@@ -6,7 +6,7 @@
 
 ### Project Goals
 
-The primary goal of this website is to advertise the services of *Foraging Cardiff* (an imagined organisation) to their new and returning customers, as well as to potential guides. *Foraging Cardiff* hosts guided foraging walks across the city that are suitable for families, couples, and adults alike. 
+The primary goal of this website is to advertise the services of *Foraging Cardiff* (a fictional organisation) to their new and returning customers, as well as to potential guides. *Foraging Cardiff* hosts guided foraging walks across the city that are suitable for families, couples, and adults alike. 
 
 ### User Goals
 1. #### New participant
@@ -200,7 +200,7 @@ The HTML and CSS code was run through the validators and changes made where they
 
 ## **Credits**
 ### Content
-All code, except where credited to other, was written by the developer. 
+All code, except where credited to othes in commented out code in the script, was written by the developer. 
 ### Media
 Images were taken from open source websites. The image on the index.html page is the developer's own image.
 ### Code
